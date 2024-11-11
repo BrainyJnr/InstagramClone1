@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "1044314579932",
+    "project_id": "tiktokclone-da8f4",
+    "storage_bucket": "tiktokclone-da8f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044314579932:android:19b35d67f1be057cd4e519",
+        "android_client_info": {
+          "package_name": "com.myapp.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044314579932-bma8qh9aj2fnm6fbqmb4mclv8ulpm0g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjCDlCBzXuDOGk-rOn2Tvr7AGekcfNks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044314579932-bma8qh9aj2fnm6fbqmb4mclv8ulpm0g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044314579932-530cmqa2qep1t3huo2tlv0aahhcngptd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044314579932:android:c3069511a83a59a1d4e519",
+        "android_client_info": {
+          "package_name": "com.example.tiktokclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044314579932-bma8qh9aj2fnm6fbqmb4mclv8ulpm0g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjCDlCBzXuDOGk-rOn2Tvr7AGekcfNks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044314579932-bma8qh9aj2fnm6fbqmb4mclv8ulpm0g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044314579932-530cmqa2qep1t3huo2tlv0aahhcngptd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044314579932:android:4b83ead5f5b2da58d4e519",
+        "android_client_info": {
+          "package_name": "com.example.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044314579932-ro2a0qf5q2fvgp4th1gptfsapg8592sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsappclone",
+            "certificate_hash": "3c0fd88e0ac2705ac35cad9585b1b4649e3d775c"
+          }
+        },
+        {
+          "client_id": "1044314579932-bma8qh9aj2fnm6fbqmb4mclv8ulpm0g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjCDlCBzXuDOGk-rOn2Tvr7AGekcfNks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044314579932-bma8qh9aj2fnm6fbqmb4mclv8ulpm0g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044314579932-530cmqa2qep1t3huo2tlv0aahhcngptd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
